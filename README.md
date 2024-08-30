@@ -1,0 +1,1 @@
+Company analysis of revenue and calculate the net profit margin by organizing sales data and expenses into a structured spreadsheet. Use formulas to compute total revenue and deduct costs to find net profit, then calculate the net profit margin percentage. Create visualizations like charts to highlight trends and compare profitability over time
